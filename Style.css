@@ -1,0 +1,11 @@
+.qualification-details{
+	background-color: #800000;
+	
+}
+
+table,th,td{
+	border: 1px solid #ddd;
+    padding: 8px;
+	text-align: center;
+	color: white;
+}
