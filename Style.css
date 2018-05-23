@@ -1,0 +1,30 @@
+body {
+	background-color: #009999;
+	
+}
+														
+
+ a{
+	font-size: 22px;
+	color: white;
+	
+}
+table,th,td{
+	border: 1px solid #ddd;
+    padding: 8px;
+	text-align: center;
+	color: white;
+}
+
+h1,h2,h3{
+	color: white;
+}
+
+p,ol{
+	color: white;
+	font-size: 20px;
+}
+
+
+
+
